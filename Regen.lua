@@ -7,7 +7,7 @@
 	--Simply place your model into the "Templates" folder
 	--move your model where you would like.
 
-]]
+--]]
 
 --vars
 local debrisService = game:GetService("Debris") --Used for cleanups

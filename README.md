@@ -11,7 +11,7 @@ The **`RegenButton.rbxm`** model offers a streamlined solution for regenerating 
 
 ![image](https://github.com/TylrPopcorn/Regeneration-Block/assets/104395322/84fd8973-50dd-4548-836a-80b2021ad971)
 
-Place any item in the **'Templates'** folder to enable its regeneration functionality.
+Simply place any item in the **'Templates'** folder to activate its regeneration feature. Additionally, the **`Regen.lua`** script includes a *'Settings'* section, allowing developers to customize its behavior as needed.
 
  Alternatively, you can also download the **`RegenButton.rbxl`** file and open the studio place instance directly.
 

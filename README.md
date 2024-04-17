@@ -14,8 +14,9 @@ Alternatively, you can also download the **`RegenButton.rbxl`** file and open th
 
 ![image](https://github.com/TylrPopcorn/Regeneration-Block/assets/104395322/84fd8973-50dd-4548-836a-80b2021ad971)
 
-Simply place any item in the **'Templates'** folder to activate its regeneration feature. Additionally, the **`Regen.lua`** script includes a *'Settings'* section, allowing developers to customize its behavior as needed.
+Simply place any instance item into the **'Templates'** folder and they can be regenerated with the button. Additionally, the **`Regen.lua`** script includes a *'Settings'* section, which allows developers to slightly customize its behavior as needed.
 
+<img width="862" alt="Screenshot 2024-04-17 at 12 04 43 AM" src="https://github.com/TylrPopcorn/Regeneration-Block/assets/104395322/7528c82c-538f-49bd-b151-801f9d2e33d4">
 
 https://github.com/TylrPopcorn/Regeneration-Block/assets/104395322/b441b5e3-44b8-4b06-8c1a-5e5e25c83ff7
 

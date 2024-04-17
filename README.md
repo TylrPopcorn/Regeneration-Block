@@ -22,7 +22,7 @@ https://github.com/TylrPopcorn/Regeneration-Block/assets/104395322/b441b5e3-44b8
 
 <br></br>
 # Related Projects
--  [Floating Camera Part](https://github.com/TylrPopcorn/Floating-Camera-Part]) - *Use a floating part for camera manipulation*
+-  [Floating Camera Part](https://github.com/TylrPopcorn/Floating-Camera-Part) - *Use a floating part for camera manipulation*
 
 
 
